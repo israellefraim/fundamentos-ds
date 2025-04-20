@@ -16,7 +16,7 @@ Aqui estão projetos, exercícios e desafios que consolidaram minha base técnic
 ---
 
 ## 🛠️ Tecnologias Utilizadas  
-- **Banco de Dados**: MySQL, MySQL Workbench.  
-- **Front-End**: HTML5, CSS3, JavaScript.  
-- **Linguagens de Programação**: Python, Java.  
-- **Ferramentas**: Git, VS Code, IntelliJ.  
+- **Banco de Dados**: MySQL.  
+- **Front-End**: HTML5, CSS3.
+- **Linguagens de Programação**: Python, Java, Portugol Studio.
+- **Ferramentas**: Pycharm, VS Code, MySQL Workbench.
