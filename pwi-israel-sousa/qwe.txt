@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<HTML LANG="PT-BR">
+
+<HEAD>
+	<META CHARSET="UTF-8"/>
+	<TITLE>AULA DE PWI</TITLE>
+</HEAD>
+
+<BODY>
+ <body style="background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p3/274445-de-fundo-branco-de-forma-de-diamante-vetor.jpg');">
+
+	<P> O <b>parágrafo</b> <b><i>é um elemento textual</i></b> com unidade de sentido que serve para dividir e organizar o texto. Para identificá-lo, basta procurar os trechos que iniciam com recuo na margem esquerda e encerram com ponto final. Eles podem se dividir em parágrafos de introdução, desenvolvimento e conclusão.</p>
+
+	<hr></hr>
+
+	<p> Adobe color </p>
+
+	<hr></hr>
+
+	<font color="#6D012B"><p><h1><u>Fim</u></p></h1></font>
+	<p><h2>Fim</p></h2>
+	<p><h3>Fim</p></h3>
+	<p><h4>Fim</p></h4>
+	<p><h5>Fim</p></h5>
+	<p><h6>Fim</p></h6>
+
+	<hr></hr>
+
+	<p><h1><b>2<sup>4</sup></b></h1></p>
+	<p><h2><i>10<sub>100</sub></i></h2></p>
+	<p><h3><u>20<sup>500</sup></u></h3></p>
+
+</BODY>
+</HTML>
+
+
+
+
+
+

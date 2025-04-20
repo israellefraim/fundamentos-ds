@@ -1,0 +1,108 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;         
+  overflow-x: hidden;            
+                                                
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.gif {
+  position: absolute;
+  top: 0;
+  left: -300px;
+  width: 145%;
+  height: 145%;
+  object-fit: cover; /* Isso garante que o GIF cubra toda a área do contêiner */
+  z-index: -1;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; /*Largura*/
+  height: 145%; /*Altura*/
+  background-color: rgba(0, 0, 0, 0.685); /* Cor preta com 75% de transparência */
+}
+
+.text {
+  position: absolute;
+  top: 45%;
+  left: 26%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+  font-size: 3.8em;
+  z-index: 2; /* Garante que o texto esteja acima do GIF */
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.text2 {
+  position: absolute;
+  top: 113%;
+  left: 73%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+  font-size: 3.8em;
+  z-index: 2; /* Garante que o texto esteja acima do GIF */
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.image {
+  position: absolute;
+  width: 46%;
+  height: 55%;
+  top: 20%;
+  left: 45%;
+  z-index: 3;
+}
+
+.image2 {
+  position: absolute;
+  width: 14%;
+  height: 30%;
+  top: -2%;
+  left: 0.5%;
+  z-index: 4;
+}
+
+.image3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    {
+  position: absolute;
+  width: 45%;
+  height: 55%;
+  top: 86%;
+  left: 8%;
+  z-index: 3;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+button img {
+  width: 100px; /* ajuste conforme necessário */
+  height: 100px; /* ajuste conforme necessário */
+  /* Adicione qualquer outro estilo desejado para a imagem do botão */
+}
+
+button:hover img {
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+

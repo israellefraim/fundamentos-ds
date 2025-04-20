@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+body {
+    overflow-x: hidden;  
+    overflow-y: auto;
+}
+
+hr {
+    background-color: #002060;
+    height: 1.8%;
+    width: 80%;
+    position: absolute;
+    left: 10%;
+    top: 7%;
+}
+
+h1 {
+    color: #002060;
+    position: relative;
+    left: 28%;
+    top: 71px;
+    font-size: 8vh;
+}
+
+.inicio {
+    font-size: 3vh;
+}
+
+.local {
+    position: absolute;
+    top: 21%;
+    left: 39%;
+    
+}
+
+.contato {
+    position: absolute;
+    top: 24%;
+    left: 36.2%;
+}
+
+.pessoal {
+    position: absolute;
+    top: 27%;
+    left: 40.3%;
+}
+
+h2 {
+    position: relative;
+    font-size: 6.8vh;
+    top: 180px;
+    left: 10%;
+    color: #002060;
+}
+
+.objetivo > p {
+    position: absolute;
+    top: 47.8%;
+    left: 10.1%;
+    font-size: 3.8vh;
+}
+
+.experiencia > p {
+    position: absolute;
+    top: 69.8%;
+    left: 10.1%;
+    font-size: 3.8vh;
+}
+
+.academica > p {
+    position: absolute;
+    top: 108.6%;
+    left: 10.1%;
+    font-size: 3.8vh;
+}
+
+.complementar > p {
+    position: absolute;
+    top: 133.9%;
+    left: 10.1%;
+    font-size: 3.8vh;
+}
+
+.idioma > p {
+    position: absolute;
+    top: 171.9%;
+    left: 10.1%;
+    font-size: 3.8vh;
+}
+	

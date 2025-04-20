@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flash - O Velocista Escarlate</title>
+    <style>
+        .title-box {
+		margin: 0;
+            background-color: #ffd200; /* Cor de fundo do retângulo */
+		height: 50px;
+		width: 99vw;
+		border-radius: 10px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+        }
+	  .img {
+		width: 100vw;
+		height: auto;
+	  }	
+	  .img img {
+		width: 100vw;
+		height: auto;
+	  }		
+    </style>
+</head>
+<body>
+<div class="img">
+	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.mob.org.pt%2Fgallery%2Ftag%3Dflash%2F&psig=AOvVaw27O9iXVwSwNks1jDpq25Ya&ust=1712868610968000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjuhP7CuIUDFQAAAAAdAAAAABAD">
+</div>
+<div class="title-box">
+    <h1>Flash - O Velocista Escarlate</h1>
+</div>
+<p>O Flash é um super-herói da DC Comics conhecido por sua incrível velocidade. <br>Ele é Barry Allen, um cientista forense que ganhou seus poderes após ser <br>atingido por um raio enquanto trabalhava em seu laboratório.</p>
+</body>
+</html>
